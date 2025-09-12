@@ -8,7 +8,7 @@
 - 🧠 I have **2.5+ years of experience** across multiple roles — building robust, scalable web products.
 
 - 💼 **Currently** leading development at a **FinTech product startup**  
-  🛠 Driving the product from the ground up — from architecture to deployment — for the past **1.5 years**
+  🛠 Driving the product from the ground up — from architecture to deployment — for the past **1.75 years**
 
 - 🔁 Previously at a **service-based company**  
   🚀 Delivered **3 client projects** in just over a year, spanning various stacks and business domains
