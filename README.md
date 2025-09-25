@@ -5,7 +5,7 @@
 
 ### 👨‍💼 Experience
 
-- 🧠 I have **2.5+ years of experience** across multiple roles — building robust, scalable web products.
+- 🧠 I have **2.75+ years of experience** across multiple roles — building robust, scalable web products.
 
 - 💼 **Currently** leading development at a **FinTech product startup**  
   🛠 Driving the product from the ground up — from architecture to deployment — for the past **1.75 years**
